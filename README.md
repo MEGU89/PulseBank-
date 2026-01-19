@@ -1,4 +1,4 @@
-<img width="718" height="412" alt="image" src="https://github.com/user-attachments/assets/4617c6ed-ae22-41c4-b248-f10647d286a2" /># **PulseBank - Complete Project Workflow**
+# **PulseBank - Complete Project Workflow**
 
 PulseBank is an **AI-powered blood donation management platform** that connects donors, hospitals, and recipients in real-time using smart matching algorithms, location detection, and scheduling capabilities.
 
@@ -52,7 +52,7 @@ User → Auth Page → Select Role (Donor/Hospital/Recipient)
   → Account Created + JWT Token
 ```
 
----  ![Uploading image.png…]()
+---  
 
 
 
